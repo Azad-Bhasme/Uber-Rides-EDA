@@ -18,7 +18,8 @@ This project analyzes an Uber ride dataset to understand user behavior, ride cat
 - Data Cleaning & Visualization
 
 ## 📊 Preview
-You can view the full notebook [here](UberData_EDA.html) or run it interactively on Google Colab.
+You can view the full notebook [here](https://nbviewer.org/github/Azad-Bhasme/Uber-Rides-EDA/blob/main/UberData_EDA.html
+) or run it interactively on Google Colab.
 
 ## 📁 Files
 - `UberData_EDA.ipynb`: Main notebook with EDA
